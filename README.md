@@ -1,2 +1,3 @@
 # hello-world
-Just time-honored traditional repository
+
+Hi, everyone!
